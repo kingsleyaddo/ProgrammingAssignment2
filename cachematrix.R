@@ -1,8 +1,6 @@
 ## This first part creates a special matrix object that can cache its inverse.
 ## It is based on the example given for the assignment.
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
     invno <- NULL
     set <- function(y) {
