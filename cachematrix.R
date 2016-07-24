@@ -1,5 +1,5 @@
 ## This first part creates a special matrix object that can cache its inverse.
-## It is based on the example given for the assignment.
+## It is based on the example given for the assignment for this week.
 
 makeCacheMatrix <- function(x = matrix()) {
     invno <- NULL
